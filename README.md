@@ -1,5 +1,3 @@
-# Modanisa-Inspire-Private-Wiki
-Private internal wiki project inspired by Modanisa, featuring documentation, code, images, and workflow guides for brand-based platform collaboration and learning.
 
 # 🧭 Modanisa Inspire Private Wiki
 
@@ -44,9 +42,9 @@ The project serves as an organized reference hub for *team collaboration, **proc
 - Ideal for *Modanisa platform teams, **student collaboration projects, or anyone building **internal knowledge bases* inspired by Modanisa’s documentation model.
 
   ## 🧑‍💻 Author
-
-- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
+  
 - **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
+- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
 - **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
 
 - Can be extended into a *full-featured internal wiki* using tools like *Notion, **Confluence, or **Document360* for broader organizational use.
