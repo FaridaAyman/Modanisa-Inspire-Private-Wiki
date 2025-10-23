@@ -37,6 +37,7 @@ The project serves as an organized reference hub for *team collaboration, **proc
 4. 💻 Review and modify *modanisa_footer_code.js* for front-end integration or theme customization.  
 5. 🎬 Watch *modanisa.mp4* to see a full project walkthrough.  
 6. 🔐 Use all provided materials for *private/internal documentation* within your team.
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/ee211914-08e4-4388-ac8f-2d756a8eb07c" />
 
 ---
 
