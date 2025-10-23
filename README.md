@@ -50,6 +50,10 @@ The project serves as an organized reference hub for *team collaboration, **proc
 - **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
 - **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
 
-- Can be extended into a *full-featured internal wiki* using tools like *Notion, **Confluence, or **Document360* for broader organizational use.
+---
+
+⭐ *If you like this project, don't forget to star the repository!*
+
+---
 
 ---
