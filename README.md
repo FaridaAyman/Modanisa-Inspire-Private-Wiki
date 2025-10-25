@@ -2,7 +2,7 @@
 # 🧭 Modanisa Inspire Private Wiki
 
 ## 📝 Description
-*Modanisa Inspire Private Wiki* is a private and modern internal documentation platform inspired by the *Modanisa* brand.  
+*Modanisa Inspire Private Wiki* is a private and modern internal documentation platform inspired by the *Modanisa* brand
 The project serves as an organized reference hub for *team collaboration, **process documentation, **brand guidelines, and **code examples* related to Modanisa’s online presence.
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/c3503787-8c70-40eb-81d1-bcbe73c9da74" />
